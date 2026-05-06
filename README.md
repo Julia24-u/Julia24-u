@@ -28,19 +28,21 @@
 
 ### 📂 Основные проекты:
 
-*   **[AstraMap](https://github.com/Julia24-u/astra_map)** — Fullstack-приложение для молодежных активностей Астрахани. Реализована сложная авторизация через Spring Security и REST API для взаимодействия с картой[cite: 1].
+*   **[AstraMap](https://github.com/Julia24-u/astra_map)** — Fullstack-приложение для молодежных активностей Астрахани. Реализована сложная авторизация через Spring Security и REST API для взаимодействия с картой.
 *   **[Tatooshki Aggregator](https://github.com/Julia24-u/tatooshki)** — Информационный ресурс для верификации услуг тату-салонов. Проект включает глубокое исследование предметной области, ER-диаграмму с множественными связями и систему модерации отзывов.
 
 ---
 
 ### 📊 Моя статистика GitHub:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Julia24-u&show_icons=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical&hide_border=true" width="300" />
-</p>
+
+| | |
+|:---:|:---:|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Julia24-u&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical&hide_border=true) |
 
 ---
 
 ### 💌 Как со мной связаться:
-* **Telegram:** [@Vodmaa]
-* **Email:** [davlyatshina24@gmail.com]
+<p align="left">
+<a href="https://t.me/@Vodmaa" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="mailto:davlyatshina24@gmail.com"><img src="https://img.shields.io/badge/Mail.ru-005FF9?style=for-the-badge&logo=mail.ru&logoColor=white" /></a>
+</p>
