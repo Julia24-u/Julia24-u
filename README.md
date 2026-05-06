@@ -37,9 +37,8 @@
 
 | | |
 |:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Julia24-u&show_icons=true&theme=radical&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical&hide_border=true) |
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia24-u&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical) |
 
----
 ---
 
 ### 💌 Как со мной связаться:
