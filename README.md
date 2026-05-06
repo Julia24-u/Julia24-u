@@ -39,6 +39,12 @@
 |:---:|:---:|
 | ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia24-u&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical) |
 
+| | |
+|:---:|:---:|
+| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia24-u&theme=radical) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical) |
+
+--- вот так у моей подурги.
+
 ---
 
 ### 💌 Как со мной связаться:
