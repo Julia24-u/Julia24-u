@@ -28,20 +28,17 @@
 
 ### 📂 Основные проекты:
 
-*   **[AstraMap](https://github.com/Julia24-u/astra_map)** — Fullstack-приложение для молодежных активностей Астрахани. Реализована сложная авторизация через Spring Security и REST API для взаимодействия с картой.
-*   **[Tatooshki Aggregator](https://github.com/Julia24-u/tatooshki)** — Информационный ресурс для верификации услуг тату-салонов. Проект включает глубокое исследование предметной области, ER-диаграмму с множественными связями и систему модерации отзывов.
+#### 📍 [AstraMap](https://github.com/Julia24-u/astra_map)
+**Fullstack-сервис** для мониторинга молодежной активности Астрахани.
+*   **Реализация:** Полноценный интерфейс для взаимодействия с интерактивной картой.
+*   **Функционал:** Решена проблема визуального отображения и поиска молодежных центров.
+*   **Backend:** Безопасная авторизация через Spring Security и REST API на Java/Spring Boot.
 
----
-
-### 📊 Моя статистика GitHub:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Julia24-u&theme=radical&column=7&margin-w=15&no-bg=true" alt="trophy" />
-</p>
-
-| 📊 Основные показатели | 🔥 Интенсивность работы |
-|:---:|:---:|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Julia24-u&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Commit Snake](https://github-raw.githubusercontent.com/Julia24-u/Julia24-u/output/github-contribution-grid-snake-dark.svg) |
+#### 🖋️ [Tatooshki Aggregator](https://github.com/Julia24-u/tatooshki)
+**Информационный сервис** для верификации и поиска тату-услуг.
+*   **Реализация:** Пользовательский интерфейс для работы с каталогом мастеров и салонов.
+*   **Функционал:** Реализована система модерации отзывов и верификации портфолио, решающая проблему доверия в индустрии.
+*   **Backend:** Логика агрегатора на Spring Boot с интеграцией базы данных MySQL.
 
 ---
 
