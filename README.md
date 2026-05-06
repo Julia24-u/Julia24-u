@@ -35,15 +35,13 @@
 
 ### 📊 Моя статистика GitHub:
 
-| | |
-|:---:|:---:|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia24-u&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical) |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Julia24-u&theme=radical&column=7&margin-w=15&no-bg=true" alt="trophy" />
+</p>
 
-| | |
+| 📊 Основные показатели | 🔥 Интенсивность работы |
 |:---:|:---:|
-| ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Julia24-u&theme=radical) | ![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Julia24-u&layout=compact&theme=radical) |
-
---- вот так у моей подурги.
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Julia24-u&show_icons=true&theme=radical&hide_border=true&count_private=true) | ![Commit Snake](https://github-raw.githubusercontent.com/Julia24-u/Julia24-u/output/github-contribution-grid-snake-dark.svg) |
 
 ---
 
